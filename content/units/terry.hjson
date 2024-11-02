@@ -1,4 +1,4 @@
-name: "Terry"
+name: Terry
 type: UnitType
 boostMultiplier: 2
 drownTimeMultiplier: 0.5
@@ -14,4 +14,4 @@ mineWalls: true
 canHeal: true
 legCount: 2
 createScorch: false
-coreUnitDock = true
+coreUnitDock: true

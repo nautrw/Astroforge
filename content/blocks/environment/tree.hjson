@@ -1,4 +1,5 @@
 type: StaticWall
+variants: 1
 itemDrop: wooden-log
 destructible: false
 breakable: false

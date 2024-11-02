@@ -1,7 +1,5 @@
 type: OreBlock
+name: Stone Ore
 variants: 1
 size: 1
 itemDrop: stone
-destructible: false
-breakable: false
-alwaysReplace: false

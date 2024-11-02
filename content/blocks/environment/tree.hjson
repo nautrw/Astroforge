@@ -1,5 +1,5 @@
 type: StaticTree
-variants: 2
+variants: 4
 size: 1
 itemDrop: wooden-log
 destructible: false

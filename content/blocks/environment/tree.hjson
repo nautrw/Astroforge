@@ -1,3 +1,5 @@
 type: WobbleProp
 itemDrop: wooden-log
-playerUnmineable: true
+destructible: false
+breakable: false
+alwaysReplace: false

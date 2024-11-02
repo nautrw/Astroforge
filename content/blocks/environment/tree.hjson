@@ -1,4 +1,5 @@
 type: StaticTree
+name: Tree
 variants: 4
 size: 1
 itemDrop: wooden-log

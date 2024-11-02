@@ -3,6 +3,8 @@ type: mech
 boostMultiplier: 2
 drownTimeMultiplier: 0.5
 buildSpeed: 1
+engineSize: 0
+lightOpacity: 0
 canBoost: true
 canAttack: true
 mineSpeed: 2

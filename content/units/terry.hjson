@@ -1,0 +1,17 @@
+name: Terry
+type: UnitType
+boostMultiplier: 2
+drownTimeMultiplier: 0.5
+buildSpeed: 1
+engineSize: 0
+lightOpacity: 0
+canBoost: true
+canAttack: true
+mineSpeed: 2
+mineTier: 0
+mineFloor: true
+mineWalls: true
+canHeal: true
+legCount: 2
+createScorch: false
+coreUnitDock = true

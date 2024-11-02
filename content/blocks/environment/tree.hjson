@@ -1,4 +1,4 @@
-type: StaticWall
+type: StaticTree
 variants: 1
 itemDrop: wooden-log
 destructible: false

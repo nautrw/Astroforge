@@ -1,0 +1,9 @@
+name: astroforge
+displayName: [red]Astro[white]forge
+author: nautrw
+description:
+'''
+[red]WARNING: NOT FINISHED!
+'''
+minGameVersion: 146
+hidden: false

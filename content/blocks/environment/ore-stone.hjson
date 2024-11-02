@@ -1,0 +1,4 @@
+type: OreBlock
+variants: 1
+size: 1
+itemDrop: stone

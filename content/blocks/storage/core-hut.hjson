@@ -6,5 +6,5 @@ isFirstTier: true
 size: 2
 health: 750
 solid: false
-itemCapacity: 1000
+itemCapacity: 2500
 unitCapModifier: 10

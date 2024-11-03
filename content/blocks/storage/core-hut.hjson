@@ -8,3 +8,4 @@ health: 750
 solid: false
 itemCapacity: 2500
 unitCapModifier: 10
+separateItemCapacity: false

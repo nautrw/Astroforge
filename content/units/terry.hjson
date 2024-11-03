@@ -12,7 +12,7 @@ mineTier: 0
 mineFloor: true
 mineWalls: true
 canHeal: true
-legCount: 1
+legCount: 2
 createScorch: false
 coreUnitDock: true
 outlineRadius: 1

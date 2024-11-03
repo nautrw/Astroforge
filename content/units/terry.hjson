@@ -16,3 +16,4 @@ legCount: 2
 createScorch: false
 coreUnitDock: true
 outlineRadius: 2
+outlineColor: 2e1905

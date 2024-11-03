@@ -1,0 +1,8 @@
+name: "Core: Hut"
+type: CoreBlock
+unitType: terry
+thrusterLength: 2
+isFirstTier: true
+size: 2
+health: 750
+solid: false

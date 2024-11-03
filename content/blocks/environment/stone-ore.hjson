@@ -1,5 +1,5 @@
 name: Stone Ore
 type: OreBlock
-variants: 1
+variants: 3
 size: 1
 itemDrop: stone
